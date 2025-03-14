@@ -4,6 +4,7 @@ import EventSlider from "../../components/EventSlider/EventSlider";
 import Footer from "../../components/Footer/Footer"
 import bgImage from "../../assets/grid.webp"; 
 import Navbar from "../../components/Navbar/Navbar";
+
 const HomePage = () => {
     return (
     <div
